@@ -38,3 +38,7 @@ One of the major advantages of AI chatbots is that they are available 24/7 and c
 Conclusion:
 
 In conclusion, AI chatbots using NLP are an important advancement in modern technology. They enable computers to understand and respond to human language effectively, making communication between humans and machines easier, faster, and more intelligent.
+
+OUTPUT:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/70dc2ad8-e9b9-4127-8160-e23e1ac39fa4" />
